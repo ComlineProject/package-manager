@@ -1,0 +1,6 @@
+# Cargo builds
+/target
+/Cargo.lock
+
+# JetBrains IDEA settings
+.idea
